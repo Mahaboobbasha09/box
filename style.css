@@ -1,0 +1,234 @@
+*{
+    margin: 1%;
+    padding: 1%;
+}
+.box{
+    margin-left: 20%;
+    border: 15px ridge rgb(220, 112, 112);
+    border-width: 5%;
+    width: 50%;
+    box-shadow: 0px 0px 3px 6px rgb(8, 8, 8) inset;
+}
+.a0{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+.b0,.ba{
+    display: flex;
+}
+.bas{
+    border: 2px solid black;
+    border-width: 20%;
+    padding-bottom: 11%;
+    width: 17%;
+    height: 10%;
+    background-color: rgb(225, 225, 201);
+    box-shadow: 8px 8px 4px rgb(68, 69, 57);
+    border-radius: 3%;
+}
+.bas1{
+    padding-top: 40%;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+.bas:hover{
+    font-family: monospace;
+    font-optical-sizing: auto;
+    background-color: aqua;
+}
+.b{ 
+    border: 2px solid black;
+    border-width: 20%;
+    padding-bottom: 11%;
+    width: 17%;
+    height: 10%;
+    background-color: rgb(225, 225, 201);
+    box-shadow: 8px 8px 4px rgb(68, 69, 57);
+    border-radius: 3%;
+}
+.b1{
+    padding-top: 40%;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+.b1:hover{
+    font-family: monospace;
+    font-optical-sizing: auto;
+    
+}
+.ar1{
+    border: 2px solid black;
+    border-width: 20%;
+    height: 30%;
+    width: 15%;
+    display: inline-block;
+    padding-bottom: 10%;
+    box-shadow: inset;
+    background-color: rgb(221, 221, 103);
+    box-shadow: 8px 8px 4px rgb(68, 69, 57);
+    border-radius: 3%;
+}
+.ar{
+    text-align: center;
+    padding-top: 50%;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+.ar:hover{
+    font-family: cursive;
+    font-optical-sizing: auto;
+    
+}
+.v1{
+    border: 2px solid black;
+    border-width: 20%;
+    height: 30%;
+    width: 15%;
+    display: inline-block;
+    padding-bottom: 10%;
+    box-shadow: inset;
+    background-color: rgb(25, 196, 226);
+    box-shadow: 8px 8px 4px rgb(68, 69, 57);
+    border-radius: 3%;
+}
+.v{
+    text-align: center;
+    padding-top: 50%;
+    
+    font-style: normal;
+}
+.v:hover{
+    font-family: "Protest Guerrilla", sans-serif;
+    font-weight: 400;
+}
+.h1{
+    border: 2px solid black;
+    border-width: 20%;
+    height: 30%;
+    width: 15%;
+    display: inline-block;
+    padding-bottom: 10%;
+    box-shadow: inset;
+    background-color: rgb(135, 87, 240);
+    box-shadow: 8px 8px 4px rgb(68, 69, 57);
+    border-radius: 3%;
+}
+.h{
+    text-align: center;
+    padding-top: 50%;
+    font-style: normal;
+}
+.h:hover{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400%;
+}
+.hu{
+    border: 2px solid black;
+    border-width: 20%;
+    height: 30%;
+    width: 15%;
+    display: inline-block;
+    padding-bottom: 10%;
+    box-shadow: inset;
+    background-color: rgb(247, 147, 147);
+    box-shadow: 8px 8px 4px rgb(68, 69, 57);
+    border-radius: 3%;
+}
+.h0{
+    text-align: center;
+    padding-top: 50%;
+    font-style: normal;
+}
+.h0:hover{
+    font-family: "Jacques Francois Shadow", serif;
+    font-weight: 400;
+}
+.m{
+    border: 2px solid black;
+    border-width: 20%;
+    height: 30%;
+    width: 15%;
+    display: inline-block;
+    padding-bottom: 10%;
+    box-shadow: inset;
+    background-color: rgb(112, 165, 226);
+    box-shadow: 8px 8px 4px rgb(68, 69, 57);
+    border-radius: 3%;
+}
+.m1{
+    text-align: center;
+    padding-top: 50%;
+    font-style: normal;
+}
+.m1:hover{
+    font-family: "Ribeye Marrow", serif;
+    font-weight: 400;
+}
+.bh1{
+    border: 2px solid black;
+    border-width: 20%;
+    height: 30%;
+    width: 15%;
+    display: inline-block;
+    padding-bottom: 10%;
+    box-shadow: inset;
+    background-color: rgb(157, 158, 160);
+    box-shadow: 8px 8px 4px rgb(68, 69, 57);
+    border-radius: 3%;
+}
+.bh{
+    text-align: center;
+    padding-top: 40%;
+    font-size: 50px;
+}
+.bh:hover{
+    font-family: "Kolker Brush", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.s{
+    border: 2px solid black;
+    border-width: 20%;
+    height: 30%;
+    width: 15%;
+    display: inline-block;
+    padding-bottom: 10%;
+    box-shadow: inset;
+    background-color: rgb(31, 105, 254);
+    box-shadow: 8px 8px 4px rgb(68, 69, 57);
+    border-radius: 3%;
+}
+.s1{
+    text-align: center;
+    padding-top: 50%;
+    font-style: normal;
+}
+.s1:hover{
+    font-family: serif;
+    font-weight: 400;
+}
+.ven{
+    border: 2px solid black;
+    border-width: 20%;
+    height: 30%;
+    width: 15%;
+    display: inline-block;
+    padding-bottom: 10%;
+    box-shadow: inset;
+    background-color: rgb(21, 244, 140);
+    box-shadow: 8px 8px 4px rgb(68, 69, 57);
+    border-radius: 3%;
+}
+.ve{
+    text-align: center;
+    padding-top: 50%;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+.ve:hover{
+    font-family: cursive;
+}
